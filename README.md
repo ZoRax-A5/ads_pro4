@@ -2,6 +2,11 @@
 
 Here zwx dd leave a note...
 
+## 文件说明
+
+`huffman_code.cpp` 字符串前缀判断那里用的是常规方法(strstr)
+`trie.cpp` 字符串前缀判断用trie
+
 ## 方案一
 
 **压缩包下载大法好hhh**
